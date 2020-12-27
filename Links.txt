@@ -1,0 +1,5 @@
+
+Images:
+Scroll = https://cdn.discordapp.com/attachments/432408793998163968/740200163330621450/20200804_185612.jpg
+Coin = https://cdn.discordapp.com/attachments/432408793998163968/739821516706938980/677105538571567105.png
+Info Icon = https://cdn.discordapp.com/attachments/748067714722955275/750223872111935519/1598428803482.png
