@@ -1,0 +1,91 @@
+#Books
+
+Book of Minstrel = {"_id":{"$oid":"5fdebe36de03b663c7d00d88"},
+"item type":"https://cdn.discordapp.com/attachments/654287868612575263/789925433432866866/IMG_20201220_001129.png",
+"item type":"book",
+"under":"Skillbooks",
+"name":"Book of Minstrel",
+"price":"666k-800k",
+"edited by":{"$numberLong":"473433116703326209"},
+"edited on":"2020-12-21 09:52 UTC",
+"search id":"PKFMNSTRL"}
+
+Book of Magic Warrior = {"_id":{"$oid":"5fdec106de03b663c7d00d8a"},
+"item type":"https://cdn.discordapp.com/attachments/654287868612575263/789925433432866866/IMG_20201220_001129.png",
+"item_type2":"book",
+"under":"Skillbooks",
+"name":"Book of Magic Warrior",
+"price":"800k-1.1m",
+"edited by":{"$numberLong":"417923302623805441"},
+"edited on":"2020-12-21 09:52 UTC",
+"search id":"PKFMJKRR"}
+
+#Xtals
+
+Megiston = {"_id":{"$oid":"5fe0967360e3f4ce1e4f8bb3"},
+"item type":"https://cdn.discordapp.com/attachments/740178985589145684/788227133159243786/IMG_20201013_061227.png",
+"item_type2":"weapon_crysta",
+"under":"Weapon_",
+"name":"Megiston",
+"price":"2.7m-4m",
+"edited by":{"$numberLong":"417923302623805441"},
+"edited on":"2020-12-22 16:06 UTC",
+"search id":"MJSTN"}
+
+Usasama = {"_id":{"$oid":"5fe0966a60e3f4ce1e4f8bb1"},
+"item type":"https://cdn.discordapp.com/attachments/740178985589145684/788227133159243786/IMG_20201013_061227.png",
+"item_type2":"weapon_crysta",
+"under":"Weapon_",
+"name":"Usasama",
+"price":"570k-700k",
+"edited by":{"$numberLong":"473433116703326209"},
+"edited on":"2020-12-23 04:02 UTC",
+"search id":"ASSM"}
+
+#Additional
+
+Belt Eyepatch = {"_id":{"$oid":"5fe45d51f5a64af3f24f2626"},
+"item type":"https://cdn.discordapp.com/attachments/654287868612575263/788352419443769374/IMG_20201013_175047.png",
+"item_type2":"additional",
+"under":"Additional",
+"name":"Belt Eyepatch",
+"price":{"$numberInt":"1"},
+"edited by":"",
+"edited on":"",
+"search id":"PLTPX",
+"note":"**Stat/Effect**:\n Critical Rate 10\n Aggro % -15\n Unsheathe Attack % 5\n"}
+
+Zodiak Hat: Boar = {"_id":{"$oid":"5fe45d55f5a64af3f24f2630"},
+"item type":"https://cdn.discordapp.com/attachments/654287868612575263/788352419443769374/IMG_20201013_175047.png",
+"item_type2":"additional",
+"under":"Additional",
+"name":"Zodiak Hat: Boar",
+"price":{"$numberInt":"1"},
+"edited by":"",
+"edited on":"",
+"search id":"STKTPR",
+"note":"**Stat/Effect**:\n Base DEF 1\n STR % 1\n INT % 1\n VIT % 1\n AGI % 1\n DEX % 1\n DEF 100\n"}
+
+#Beast
+
+Corroded Rock Surface = {"_id":{"$oid":"5fe3070c03bc2aca5ba647b5"},
+"item type":"https://cdn.discordapp.com/attachments/654287868612575263/788234248989048913/IMG_20201013_091521.png",
+"item_type2":"beast",
+"under":"Beast",
+"name":"Corroded Rock Surface",
+"price":{"$numberInt":"1"},
+"edited by":"",
+"edited on":"",
+"search id":"KRTTRKSRFS",
+"note":"**22 x Beast**\n\nLv 181 Wallkong (Ruins of Urban Elban)"}
+
+Coarse Fur = {"_id":{"$oid":"5fe3070d03bc2aca5ba647b7"},
+"item type":"https://cdn.discordapp.com/attachments/654287868612575263/788234248989048913/IMG_20201013_091521.png",
+"item_type2":"beast",
+"under":"Beast",
+"name":"Coarse Fur",
+"price":{"$numberInt":"1"},
+"edited by":"",
+"edited on":"",
+"search id":"KRSFR",
+"note":"**21 x Beast**\n\nLv 174 Sand Bandits Potum (Geist Desert: Area 1)\nLv 177 Sand Bandits Potum (Geist Desert: Area 3)"}
